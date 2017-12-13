@@ -1,0 +1,27 @@
+#instruction{
+	height: 350px;
+	width: 65%;
+	background-color: rgba(255,255,255,0.1);
+	float: right;
+	margin: 0;
+	margin-top: 8%;
+	border-radius: 50px;
+	border: none;
+	padding: 100px;
+}
+
+#content{
+	color: white;
+	font-size: 20px;
+	font-family: 'Playfair Display';
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color: white;
+	text-decoration: underline;
+}

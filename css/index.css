@@ -1,0 +1,23 @@
+html,body{
+	background-color: #F3E8D2;
+	text-align: center;
+}
+
+body{
+	margin: 0 auto;
+}
+
+#img{
+	margin: auto 0;
+	margin-top: 60px;
+	border:15px solid #036564;
+	margin-bottom: 100px;
+}
+
+#credit{
+	position: fixed;
+	bottom: 8%;
+	left: 0;
+	right: 0;
+	font-family: 'Playfair Display';
+}

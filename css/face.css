@@ -1,0 +1,32 @@
+video, canvas {
+ 	margin: 0;
+ 	padding: 0;
+ 	float: right;
+ 	right: 7.5%;
+ 	position: absolute;
+ 	top: 10%;
+ }
+
+video{
+	z-index: -1;
+	border: solid;
+	border-width: 8px;
+	border-bottom-color: #fcff5e;
+	border-right-color: #fcff5e;
+	border-left-color: #bec124;
+	border-top-color: #bec124;
+
+}
+
+canvas{
+	z-index: 0;
+}
+
+#sel{
+	top: 10%;
+	width: 300px;
+	height: 540px;
+	overflow-y: scroll;
+	position: absolute;
+	left: 280px;
+}

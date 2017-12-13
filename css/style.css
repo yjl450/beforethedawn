@@ -1,0 +1,40 @@
+
+		body {
+			padding: 0px;
+			
+		}
+		h1{
+			
+			font-size: 50px;
+			color:white;
+			margin-top:5%;
+			margin-left:30px;
+			font-weight: 100;
+		
+			
+		}
+		
+		#poem{
+			text-align: center;
+			margin-top: 10%;
+			width: 30%;
+			position: absolute;
+			font-size: 20px;
+			color:white;
+			left: 280px;
+			font-weight:normal ;
+			padding-bottom:5px;
+			
+		}
+	h1, p{
+		margin-top: 0;
+	}
+	canvas{
+		position: fixed;
+		bottom: 10%;
+	}
+	#bigimage{
+		margin-top: 10%;
+		float: right;
+		left:20px;
+	}

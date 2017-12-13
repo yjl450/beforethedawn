@@ -1,0 +1,80 @@
+html{
+  background-image: url("../img/bkg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+ }
+
+ body{
+  margin: 0 auto;
+  width: 85%;
+ }
+
+ #navi{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 150px;
+  margin-top: 6%;
+  float: left;
+ }
+
+ #navi1{
+  width: 150px;
+  height: 75px;
+  background-image: url("../img/navi/1.png");
+ }
+  #navi2{
+  width: 150px;
+  height: 143px;
+  background-image: url("../img/navi/2.png");
+ }
+  #navi3{
+  width: 150px;
+  height: 126px;
+  background-image: url("../img/navi/3.png");
+ }
+  #navi4{
+  width: 150px;
+  height: 125px;
+  background-image: url("../img/navi/4.png");
+ }
+  #navi5{
+  width: 150px;
+  height: 131px;
+  background-image: url("../img/navi/5.png");
+ }
+
+ #navi1:hover{
+  background-image: url("../img/navihover/1.png");
+ }
+
+  #navi2:hover{
+  background-image: url("../img/navihover/2.png");
+ }
+
+  #navi3:hover{
+  background-image: url("../img/navihover/3.png");
+ }
+
+  #navi4:hover{
+  background-image: url("../img/navihover/4.png");
+ }
+
+  #navi5:hover{
+  background-image: url("../img/navihover/5.png");
+ }
+
+ #bottom{
+  position: fixed;
+  bottom: 30px;
+  left: 0;
+  right: 0;
+  font-family: 'Playfair Display';
+  color: darkblue;
+ }
+
+ #bottom:hover{
+  color: white;
+ }

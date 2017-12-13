@@ -1,0 +1,28 @@
+canvas {
+	width: 70%;
+	height: 480px;
+ 	margin: 0;
+ 	padding: 0;
+ 	float: right;
+ 	right: 7.5%;
+ 	position: absolute;
+ 	top: 10%;
+ 	border-radius: 100px;
+	background-color:rgba(0,0,0,0.4);
+ }
+
+#input{
+	height: 20px;
+	width: 63%;
+	font-size: 20px;
+	color: #F3E8D2;
+	background-color:rgba(255,255,255,0.2);
+	border-radius: 60px;
+	border: none;
+	padding: 50px;
+	overflow-x: scroll;
+	float: right;
+	right: 7.5%;
+	position: fixed;
+	bottom: 10%;
+}
